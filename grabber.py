@@ -31,4 +31,4 @@ async def randomSpam(name, ctx):
         await ctx.send(file=discord.File(i))
         await asyncio.sleep(0.8) # change the 0.8 value to change delay
 
-client.run('OTIwMDQ4MzExODQ1Njc5MTc0.Yberww.JV8cF6Q3HFCDfPNdHo2fG6fDsbY')   
+client.run('token here')   
